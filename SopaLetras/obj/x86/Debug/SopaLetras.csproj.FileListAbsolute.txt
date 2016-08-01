@@ -1,0 +1,20 @@
+c:\users\g0t0monstahh\documents\visual studio 2010\Projects\SopaLetras\SopaLetras\bin\Debug\SopaLetras.exe
+c:\users\g0t0monstahh\documents\visual studio 2010\Projects\SopaLetras\SopaLetras\bin\Debug\SopaLetras.pdb
+c:\users\g0t0monstahh\documents\visual studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.exe
+c:\users\g0t0monstahh\documents\visual studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.pdb
+C:\Users\g0t0MONSTAHH\documents\visual studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Visual Studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.exe
+C:\Users\Dani\Documents\Visual Studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.pdb
+C:\Users\Dani\Documents\Visual Studio 2010\Projects\SopaLetras\SopaLetras\bin\Debug\SopaLetras.exe
+C:\Users\Dani\Documents\Visual Studio 2010\Projects\SopaLetras\SopaLetras\bin\Debug\SopaLetras.pdb
+C:\Users\Dani\Documents\Visual Studio 2010\Projects\SopaLetras\SopaLetras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\g0t0MONSTAHH\Desktop\XXXXXX\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.exe
+C:\Users\g0t0MONSTAHH\Desktop\XXXXXX\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.pdb
+C:\Users\g0t0MONSTAHH\Desktop\XXXXXX\SopaLetras\SopaLetras\bin\Debug\SopaLetras.exe
+C:\Users\g0t0MONSTAHH\Desktop\XXXXXX\SopaLetras\SopaLetras\bin\Debug\SopaLetras.pdb
+C:\Users\g0t0MONSTAHH\Desktop\XXXXXX\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.csprojResolveAssemblyReference.cache
+C:\Users\g0t0MONSTAHH\Desktop\FINAL VERSION\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.exe
+C:\Users\g0t0MONSTAHH\Desktop\FINAL VERSION\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.pdb
+C:\Users\g0t0MONSTAHH\Desktop\FINAL VERSION\SopaLetras\SopaLetras\bin\Debug\SopaLetras.exe
+C:\Users\g0t0MONSTAHH\Desktop\FINAL VERSION\SopaLetras\SopaLetras\bin\Debug\SopaLetras.pdb
+C:\Users\g0t0MONSTAHH\Desktop\FINAL VERSION\SopaLetras\SopaLetras\obj\x86\Debug\SopaLetras.csprojResolveAssemblyReference.cache
